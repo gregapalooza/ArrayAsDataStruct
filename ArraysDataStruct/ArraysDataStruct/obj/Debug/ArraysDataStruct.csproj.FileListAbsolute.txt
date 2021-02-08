@@ -1,0 +1,7 @@
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\bin\Debug\ArraysDataStruct.exe.config
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\bin\Debug\ArraysDataStruct.exe
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\bin\Debug\ArraysDataStruct.pdb
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\obj\Debug\ArraysDataStruct.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\obj\Debug\ArraysDataStruct.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\obj\Debug\ArraysDataStruct.exe
+C:\Users\gtvag\source\repos\ArraysDataStruct\ArraysDataStruct\obj\Debug\ArraysDataStruct.pdb
